@@ -3,7 +3,7 @@ bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la g
 
 En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcionales para que puedas usarlos, no me hago responsable del mal uso que se le pueda llegar a dar a alguna herramienta.
 
-# Redes Sociales :
+# Sociales :
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ripnetworkyt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RIPNetwork) 
 
@@ -31,7 +31,7 @@ En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcion
 
 ![](https://github-profile-trophy.vercel.app/?username=RIP-Network&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
-# Repositorios más contribuidos :
+# Contribuciones :
 
 ![](https://github-contributor-stats.vercel.app/api?username=RIP-Network&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
