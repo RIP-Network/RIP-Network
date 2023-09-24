@@ -1,4 +1,5 @@
-# <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="29px"> Sobre mi :
+# Sobre mi :
+
 bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la gente las pueda usar para su gusto. mayormente suelo crear herramientas automatizadas para poder ayudar a la gente a facilitar sus tareas.
 
 En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcionales para que puedas usarlos, no me hago responsable del mal uso que se le pueda llegar a dar a alguna herramienta.
@@ -31,7 +32,7 @@ En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcion
 
 ![](https://github-profile-trophy.vercel.app/?username=RIP-Network&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
-# Contribuciones :
+# Contribucion :
 
 ![](https://github-contributor-stats.vercel.app/api?username=RIP-Network&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
