@@ -11,7 +11,10 @@ En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcion
 
 # Sociales :
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ripnetworkyt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RIPNetwork) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ripnetworkyt) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RIPNetwork)
+
+<p align="center"> <img width="250px" src="https://github.com/RIP-Network/RIP-Network/blob/main/pirate.gif"> </p>
 
 ---
 
