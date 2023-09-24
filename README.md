@@ -4,6 +4,8 @@ bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la g
 
 En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcionales para que puedas usarlos, no me hago responsable del mal uso que se le pueda llegar a dar a alguna herramienta.
 
+<p align="center"> <img width="250px" src="https://cdn.shopify.com/s/files/1/0262/6361/7617/t/4/assets/Pixel-Elements---Clip-1.mp4?v=1608315212"> </p>
+
 <img src="https://komarev.com/ghpvc/?username=RIP-Network&style=flat-square&color=blue"> 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RIP-Network?style=social">
 
