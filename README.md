@@ -4,11 +4,14 @@ bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la g
 
 En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcionales para que puedas usarlos, no me hago responsable del mal uso que se le pueda llegar a dar a alguna herramienta.
 
+<img src="https://komarev.com/ghpvc/?username=RIP-Network&style=flat-square&color=blue"> 
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RIP-Network?style=social">
+
 # Sociales :
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ripnetworkyt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RIPNetwork) 
 
-#
+---
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -21,6 +24,8 @@ En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcion
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 # Estadísticas :
 
@@ -35,7 +40,3 @@ En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcion
 # Contribucion :
 
 ![](https://github-contributor-stats.vercel.app/api?username=RIP-Network&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RIP-Network&icon=9&color=0)](https://visitcount.itsvg.in)
-
