@@ -3,7 +3,8 @@ bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la g
 
 En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcionales para que puedas usarlos, no me hago responsable del mal uso que se le pueda llegar a dar a alguna herramienta.
 
-## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="29px"> Redes Sociales :
+# Redes Sociales :
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ripnetworkyt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RIPNetwork) 
 
 #
@@ -20,21 +21,18 @@ En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcion
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="29px">
-
-Estadísticas :
+# Estadísticas :
 
 ![](https://github-readme-stats.vercel.app/api?username=RIP-Network&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RIP-Network&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RIP-Network&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="29px"> 
-
-Trofeos :
+# Trofeos :
 
 ![](https://github-profile-trophy.vercel.app/?username=RIP-Network&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
-### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="29px"> Repositorios más contribuidos :
+# Repositorios más contribuidos :
+
 ![](https://github-contributor-stats.vercel.app/api?username=RIP-Network&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
