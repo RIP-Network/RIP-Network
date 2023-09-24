@@ -1,3 +1,4 @@
+---
 # Sobre mi : 
 
 bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la gente las pueda usar para su gusto. mayormente suelo crear herramientas automatizadas para poder ayudar a la gente a facilitar sus tareas.
@@ -8,6 +9,8 @@ En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcion
 
 <img src="https://komarev.com/ghpvc/?username=RIP-Network&style=flat-square&color=blue"> 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RIP-Network?style=social">
+
+---
 
 # Sociales :
 
@@ -40,10 +43,16 @@ Estas son mis redes sociales oficiales por si quieres seguirme en Youtube o Inst
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RIP-Network&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RIP-Network&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 # Trofeos :
 
 ![](https://github-profile-trophy.vercel.app/?username=RIP-Network&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
 # Contribucion :
 
 ![](https://github-contributor-stats.vercel.app/api?username=RIP-Network&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
