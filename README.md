@@ -16,7 +16,7 @@ En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcion
 
 Estas son mis redes sociales oficiales por si quieres seguirme en Youtube o Instagram y ver mi contenido.
 
-<p align="center"> <img width="250px" src="https://github.com/RIP-Network/RIP-Network/blob/main/pirate.gif"> </p>
+<p align="center"> <img width="250px" src="https://github.com/RIP-Network/RIP-Network/blob/main/PixelCode.gif"> </p>
 
 ---
 
