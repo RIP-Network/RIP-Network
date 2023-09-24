@@ -1,4 +1,4 @@
-# Sobre mi :
+# Sobre mi : 
 
 bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la gente las pueda usar para su gusto. mayormente suelo crear herramientas automatizadas para poder ayudar a la gente a facilitar sus tareas.
 
